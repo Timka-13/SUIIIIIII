@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+ text-align: center;
+ border-top: 5px solid black;
+  border-bottom: 5px solid black;
+}
+img{
+
+   border-top: 10px dashed black;
+  border-bottom: 10px dashed black;
+    border-left: 10px dashed black;
+        border-right: 10px dashed black;
+}
+P{
+   border-top: 5px solid black;
+  border-bottom: 5px solid black;
+    border-left: 5px dashed black;
+        border-right: 5px dashed black;
+}
